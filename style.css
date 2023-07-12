@@ -1,1 +1,11 @@
 
+h2{
+    color: aquamarine;
+}
+body{
+    background-image: url("img/maxresdefault.jpg");
+    background-size: 100%;
+}
+img{
+    width:250px;
+}
